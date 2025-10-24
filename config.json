@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "intro-to-python",
+      "title": "Introdução à Programação em Python",
+      "description": "Aprenda conceitos básicos de programação em Python: variáveis, condicionais, loops e funções.",
+      "path": "assignments/intro-to-python",
+      "dueDate": "2025-10-31"
     }
   ]
 }
