@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman (Forca)
 
-## 🎯 Objective 
+## 🎯 Objetivos 
 
 Construir uma versão em linha de comando do jogo Hangman (Forca) em Python. Os estudantes vão praticar manipulação de strings, laços, condicionais e entrada do usuário enquanto implementam lógica de jogo e controle de estado.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️	Implementar o jogo Hangman
 
